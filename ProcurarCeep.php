@@ -53,7 +53,7 @@
   </form>
 </main>
 
-<table class="table" id="tabela">
+<table class="table table-warning text-success mt-2" id="tabela">
   <thead>
     <tr>
       <th scope="col">UF</th>
